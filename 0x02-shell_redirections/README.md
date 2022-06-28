@@ -10,3 +10,4 @@
 10-no_more_js deletes ll js files in directory and subdirectory
 11 counts number of directory and subdirectory in current directory
 12-newest_files outouts the latest 10 files in directory
+13-unique outputs the unique fileswq in a directory
