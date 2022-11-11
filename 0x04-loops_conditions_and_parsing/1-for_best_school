@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 #This scripts prints Best School 10 Times
-
-for letter in {1..10};
+for _ in {1..10};
 do
-echo "Best School"
+	echo "Best School"
 done
