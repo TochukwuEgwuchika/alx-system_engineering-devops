@@ -1,1 +1,1 @@
-Configuration Mnagement with Puppet
+Configuration Management with Puppet
